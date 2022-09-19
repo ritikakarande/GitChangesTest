@@ -16,7 +16,5 @@ class ViewController: UIViewController {
         print("New Items")
         print("Git changes test")
     }
-
-
 }
 
